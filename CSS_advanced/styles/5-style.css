@@ -1,6 +1,8 @@
 /* the behavior of the scroll to be as fluid as possible */
 html {
     scroll-behavior: smooth;
+/* 5. Variables for the font size */
+    font-size: 62.5%;
   }
 
 /* Css Style */
