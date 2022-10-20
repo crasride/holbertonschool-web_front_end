@@ -73,7 +73,7 @@ h1, h2, h3, h4, h5, h6{
 
 /* 7. Integrating Google Fonts into the CSS files */
 .card-category, .section-tagline{
-  --color-primary: #D73953
+  --color-primary: #D73953;
 }
 
 /* 12. Adding more styling to the section title */
@@ -91,6 +91,6 @@ h1, h2, h3, h4, h5, h6{
   font-weight: var(--font-weight-bold);
   text-transform: var(--section-tagline-transform);
   /* 12. Adding more styling to the section title */
-  color: var(--color-primary);
+  --color-primary: #D73953;
 }
 
