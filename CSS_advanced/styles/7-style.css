@@ -42,7 +42,7 @@ a {
 }
 
 h1, h2, h3, h4, h5, h6{
-  font-family: var(--font-family-title);
+  font-family: var(--font-weight-title);
 /* 6. Variables for the font-weight */
   font-weight: var(--font-weight-bold);
 }
