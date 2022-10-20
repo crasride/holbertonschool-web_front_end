@@ -51,6 +51,7 @@ h1, h2, h3, h4, h5, h6{
   display: none;
 }
 
+/* 7. Integrating Google Fonts into the CSS files */
 .card-category, .section-tagline{
-  color: var(--color-primary);
+  color-primary: #D73953
 }
