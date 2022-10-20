@@ -39,7 +39,7 @@ body{
 /* 6. Variables for the font-weight */
   font-weight: var(--font-weight-regular);
 /* 8. Defining line heights */
-  line-height: var(--line-height-base)
+  line-height: var(--line-height-base);
 }
 
 a {
