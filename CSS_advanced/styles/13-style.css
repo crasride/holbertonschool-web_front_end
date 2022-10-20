@@ -67,6 +67,11 @@ a:hover{
   text-decoration: underline;
 }
 
+/* 13. Pseudo Classes */
+a:active{
+  background: var(--color-light-grey);
+}
+
 
 h1, h2, h3, h4, h5, h6{
   font-family: var(--font-weight-title);
