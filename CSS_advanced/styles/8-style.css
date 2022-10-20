@@ -15,8 +15,8 @@ html {
   --color-dark-grey: #353535;
   --text-color: var(--color-black);
 /* 7. Integrating Google Fonts into the CSS files */
-  --font-family-base: var(--Open Sans, --Helvetica Neue, --Helvetica, --Arial, --sans-serif);
-  --font-family-title:  var(--Raleway, --Helvetica Neue, --Helvetica, --Arial, --sans-serif);
+  --font-family-base: "Open Sans","Helvetica Neue", Helvetica, Arial, sans-serif;
+  --font-family-title: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
 /* 5. Variables for the font size */
   --font-size-small: 1.2rem;
   --font-size-medium: 1.6rem;
@@ -32,8 +32,9 @@ html {
   --line-height-big: 1.8;
 }
 
-body {
+body{
   font-family: var(--font-family-base);
+  color: var(--text-color);
 /* 5. Variables for the font size */
   font-size: var(--font-size-medium);
 /* 6. Variables for the font-weight */
