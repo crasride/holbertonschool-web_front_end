@@ -35,7 +35,7 @@ html {
 /* 11. Add more styles to the section tagline */
   --section-tagline-transform: uppercase;
 /* 12. Adding more styling to the section title */
-  --section-title-magin: 0;
+  --section-title-margin: 0;
   --section-title-color: var(--color-black);
 }
 
@@ -81,7 +81,7 @@ h1, h2, h3, h4, h5, h6{
   font-family: var(--font-family-title);
   font-size: var(--font-size-xx-large);
   font-weight: var(--font-weight-bold);
-  margin: var(--section-title-magin);
+  margin: var(--section-title-margin);
   color: var(--section-title-color);
 }
 
