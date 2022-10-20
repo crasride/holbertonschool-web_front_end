@@ -30,7 +30,6 @@ html {
 
 body{
   font-family: var(--font-family-base);
-  color: var(--text-color);
 /* 5. Variables for the font size */
   font-size: var(--font-size-medium);
 /* 6. Variables for the font-weight */
