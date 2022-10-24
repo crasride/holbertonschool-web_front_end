@@ -432,7 +432,7 @@ html {
   --header-logo-link-left: 0;
 /* 32. Incorporating transitions */
   --transition-duration: .3s;
-  --transition-cubic-bezier: var(0.17, 0.67, 0, 1.0)
+  --transition-cubic-bezier: cubic-bezier(0.17, 0.67, 0, 1.01)
 }
 
 body{
