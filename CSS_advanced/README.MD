@@ -6,7 +6,7 @@ For this project, we expect you to look at these concepts:
 
 [CSS advanced](README_advanced.MD)
 
-![](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2019/12/ce6718f1b55e6c1580c6.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOU5BHMTQX4%2F20221024%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20221024T121801Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=44db5ef6b6a4da0ddc5240f499f435f7f9491d7544d5177f171c74a17f299959)
+![](images/ce6718f1b55e6c1580c6.jpg)
 
 # Resources
 
@@ -52,18 +52,18 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 ## Files you need for the project
 `favicon.jpg`
 
-![](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2019/10/2ba3a0d7878316de5aaa.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOU5BHMTQX4%2F20221024%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20221024T121801Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=b9417623fc2754b1febbd86df40a299f71a59489d8321b73b36cc16ff5286a14)
+![](images/2ba3a0d7878316de5aaa.jpg)
 
 
 [download favicon.jpg](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2019/10/2ba3a0d7878316de5aaa.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOU5BHMTQX4%2F20221024%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20221024T121801Z&X-Amz-Expires=345600&X-Amz-SignedHeaders=host&X-Amz-Signature=20045fbcb2301e3317a6eddc66a0f71ec1b6a56607b78a19cf546e10413451fb)
 
 `logo-black.png`
 
-[download logo-black.png](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2019/10/06f32e89f2a82582234e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOU5BHMTQX4%2F20221024%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20221024T121801Z&X-Amz-Expires=345600&X-Amz-SignedHeaders=host&X-Amz-Signature=7bb0c5c54d9191f060c6f3801be44bde4f6bd3b8f24332fb30249e40f4983d84)
+[download logo-black.png](images/logo-black.png)
 
 `logo-white.png`
 
-[download logo-white.png](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2019/10/0fa48a04048a2d050cab.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOU5BHMTQX4%2F20221024%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20221024T121801Z&X-Amz-Expires=345600&X-Amz-SignedHeaders=host&X-Amz-Signature=247ca45058add7af8d20454fe4f138b48caad7f602a11a75133e7c01a50d4a80)
+[download logo-white.png](images/logo-white.png)
 
 Store all these under a directory named “images”
 
