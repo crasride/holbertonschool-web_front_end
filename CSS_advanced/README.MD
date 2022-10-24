@@ -429,7 +429,7 @@ Use the following starter HTML file for your project.
 ```
 You can save it in a `index.html` file and replace the `<link rel='stylesheet' href='#'>` by the right CSS file.
 
-![](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2019/10/b9a220ba79af9ede6fc5.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOU5BHMTQX4%2F20221024%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20221024T121801Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=99d33479b7a23fbb1d9ddd3c28f0b8dc559d995d90eae2010fa2957de1103ed9)
+![](images/preview_web.png)
 
 Important note: details are important! lowercase vs uppercase / wrong letter… be careful!
 
