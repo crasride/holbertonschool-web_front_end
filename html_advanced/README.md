@@ -4,7 +4,7 @@
 
 *For this project, we expect you to look at this concept:*
 
-* [HTML - elements of a web page](https://intranet.hbtn.io/concepts/870)
+* [HTML - elements of a web page](./README2html.md)
 
 ![](images/5d9e347964a9cc0e3e24.jpg)
 
