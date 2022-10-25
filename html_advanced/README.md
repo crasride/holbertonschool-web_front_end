@@ -7,7 +7,7 @@
 
 * [HTML - elements of a web page](https://intranet.hbtn.io/concepts/870)
 
-![](html_advanced/images/5d9e347964a9cc0e3e24.jpg)
+![](images/5d9e347964a9cc0e3e24.jpg)
 
 ## Welcome!
 
@@ -52,12 +52,12 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 
 ### Sitemap of the project
 
-![](html_advanced/images/Sitemap%20of%20the%20project.png)
+![](images/Sitemap%20of%20the%20project.png)
 
 
 ### Wireframe of `Techium` project
 
-![](html_advanced/images/Wireframe%20of%20Techium%20project.png)
+![](images/Wireframe%20of%20Techium%20project.png)
 
 
 ## Tasks
@@ -84,7 +84,7 @@ Copy the content of `0-index.html` into `1-index.html`
 
 Copy the content of `1-index.html` into `2-index.html`
 
-![](html_advanced/images/logo%20t.jpg)
+![](images/logo%20t.jpg)
 **Meta charset:**
 
 * add a `meta` tag inside the `head`:
@@ -647,7 +647,7 @@ Copy the content of `32-styleguide.html` into `33-styleguide.html`
         - in the `section` create a `header`, in the `header` add a level 2 heading with the text `Table`
         - after the `header`, create a `table`, reproduce in HTML the visual below
 
-![](html_advanced/images/startwars.jpg)
+![](images/startwars.jpg)
 
 
 The `<th>` tags containing `Title, Director, Release Date` should have a `scope` attribute set to `col` The `<th>` tags containing the names of the movies should have a `scope` attribute set to `row`
